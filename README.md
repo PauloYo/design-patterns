@@ -39,6 +39,7 @@ Este repositório contém implementações completas dos principais padrões de 
 
 3. **Execute o projeto:**
    ```sh
+   dotnet build
    dotnet run
    ```
 
